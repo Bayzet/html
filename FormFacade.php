@@ -1,4 +1,4 @@
-<?php namespace Illuminate\Html;
+<?php namespace bayzet\Html;
 
 use Illuminate\Support\Facades\Facade;
 
