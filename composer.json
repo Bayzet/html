@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bayzet\\Html\\": ""
+            "Bayzet\\Html\\": ""
         },
         "files": [
             "helpers.php"
