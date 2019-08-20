@@ -1,10 +1,14 @@
 {
-    "name": "illuminate/html",
+    "name": "bayzet/html",
     "license": "MIT",
     "authors": [
         {
             "name": "Taylor Otwell",
             "email": "taylorotwell@gmail.com"
+        },
+        {
+            "name": "Bayzet Tlyupov",
+            "email": "baizet01@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Illuminate\\Html\\": ""
+            "bayzet\\Html\\": ""
         },
         "files": [
             "helpers.php"
