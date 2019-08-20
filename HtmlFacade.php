@@ -1,9 +1,9 @@
-<?php namespace Illuminate\Html;
+<?php namespace bayzet\Html;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Illuminate\Html\HtmlBuilder
+ * @see \bayzet\Html\HtmlBuilder
  */
 class HtmlFacade extends Facade {
 
